@@ -1,0 +1,5 @@
+git
+Maven
+Docker
+Jenkins
+Ansible is easy tool
